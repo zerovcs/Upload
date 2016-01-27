@@ -1,0 +1,7 @@
+<module>
+	<inherits name="com.google.gwt.user.User"/>
+	<inherits name="com.google.gwt.user.theme.standard.Standard"/>
+	<entry-point class="si.test.client.MyClient"/>
+	<inherits name='com.sencha.gxt.ui.GXT'/>	
+	<set-configuration-property name="CssResource.enableGss" value="true" />
+</module>
